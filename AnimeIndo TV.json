@@ -203,6 +203,13 @@
     "allowOffline": true
   },
   {
+    "id": "83a79b7758e798ef",
+    "username": "628818000900",
+    "password": "animeindo",
+    "expiresAt": "2025-08-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_25",
     "username": "user2",
     "password": "pass2",
